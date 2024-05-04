@@ -24,7 +24,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeet-codes&show_icons=true&locale=en&layout=compact" alt="jeet-codes" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet-codes&show_icons=true&locale=en" alt="jeet-codes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet-codes&" alt="jeet-codes" /></p>
