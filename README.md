@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-codes&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-codes" /> </p>
+
 
 
 
@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,ardunio,c,cpp,vim,bash,blender,html,css,javascript,docker,figma,firebase,hibernate,java,javascript,linux,mongodb,mysql,notion,php,redhat,spring,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,c,cpp,vim,bash,blender,html,css,javascript,docker,figma,firebase,hibernate,java,javascript,linux,mongodb,mysql,notion,php,redhat,spring,vscode" />
   </a>
 </p>
 
